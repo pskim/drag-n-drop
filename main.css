@@ -23,6 +23,7 @@ ul {
 	height: 50px;
 	border: 1px solid black;
 	margin: 3px;
+	overflow: hidden;
 }
 
 /*========================================*/

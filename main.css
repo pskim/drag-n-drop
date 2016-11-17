@@ -20,8 +20,8 @@ ul {
 [class*='item-'] {
 	float: left;
 	width: 25%;
-	height: 50px;
-	border: 1px solid black;
+	height: 200px;
+	/*border: 1px solid black;*/
 	margin: 3px;
 	overflow: hidden;
 }

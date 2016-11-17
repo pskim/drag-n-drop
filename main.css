@@ -8,31 +8,23 @@
 ul {
   list-style-type: none;
 }
+*, *:before, *:after {
+	padding: 0;
+	margin: 0;
+}
 /*========================================*/
 
 /*================ grid ==================*/
-.container {
+#container {
 	width: 100%;
 }
-
-
 
 [class*='item-'] {
 	float: left;
 	width: 25%;
-	height: 200px;
-	/*border: 1px solid black;*/
-	margin: 3px;
+	height: 150px;
+	padding: 3px;
 	overflow: hidden;
 }
-
-/*========================================*/
-
-
-
-
-
-/*==========  css   ================*/
-
 
 /*========================================*/
